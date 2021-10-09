@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+body{
+	background-color: #fef1df;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	top:50%;
+	left: 50%; 
+	transform: translate(-50%,-50%);
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+p{
+	background-color: white;
+	padding:30px; 
+	border-radius:10px;
+}
+table.tableau-style tr{
+	border-collapse: collapse;
+	min-width: 400px
+	white:auto;
+	box-shadow:opx 50px rgba(0,0,0,0.15);
+	cursor: pointer;
+	margin: 100px
+	border:2px solid midnightblue;
+}
+div .i{
+position: absolute;
+left: 0;
+top: 25px;
+padding: 9px 8px ;
+}
+.tableau-style{
+	border-collapse: collapse;
+	min-width: 400px
+	white:auto;
+	box-shadow:opx 50px rgba(0,0,0,0.15);
+	cursor: pointer;
+	margin: 100px;
+	border: 2px solid midnightblue;
+}
+video{
+	size:1%;
+}
